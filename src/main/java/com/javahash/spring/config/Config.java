@@ -10,7 +10,7 @@ import org.springframework.web.servlet.view.UrlBasedViewResolver;
 @Configuration //Marks this class as configuration
 //Specifies which package to scan
 @ComponentScan("com.javahash.spring")
-//Helloand all ssssAuto Enables Spring's annotations 
+//Hello and all ssssAuto Enables Spring's annotations 
 @EnableWebMvc   
 public class Config {  
       
