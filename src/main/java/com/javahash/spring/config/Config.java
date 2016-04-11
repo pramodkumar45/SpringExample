@@ -8,7 +8,7 @@ import org.springframework.web.servlet.view.JstlView;
 import org.springframework.web.servlet.view.UrlBasedViewResolver;  
   
 @Configuration //Marks this class as configuration
-//Specifies which package to scan
+//sssSpecifies which package to scan
 @ComponentScan("com.javahash.spring")
 //Hello and all ssssAuto Enables Spring's annotations 
 @EnableWebMvc   
